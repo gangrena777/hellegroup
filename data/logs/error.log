@@ -1,0 +1,66 @@
+2023/06/02 19:33:09 [notice] 1#1: using the "epoll" event method
+2023/06/02 19:33:09 [notice] 1#1: nginx/1.22.1
+2023/06/02 19:33:09 [notice] 1#1: built by gcc 11.2.1 20220219 (Alpine 11.2.1_git20220219) 
+2023/06/02 19:33:09 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/06/02 19:33:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/06/02 19:33:09 [notice] 1#1: start worker processes
+2023/06/02 19:33:09 [notice] 1#1: start worker process 21
+2023/06/02 19:33:09 [notice] 1#1: start worker process 22
+2023/06/02 19:33:09 [notice] 1#1: start worker process 23
+2023/06/02 19:33:09 [notice] 1#1: start worker process 24
+2023/06/02 20:08:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/06/02 20:08:35 [notice] 21#21: gracefully shutting down
+2023/06/02 20:08:35 [notice] 23#23: gracefully shutting down
+2023/06/02 20:08:35 [notice] 24#24: gracefully shutting down
+2023/06/02 20:08:35 [notice] 24#24: exiting
+2023/06/02 20:08:35 [notice] 22#22: gracefully shutting down
+2023/06/02 20:08:35 [notice] 21#21: exiting
+2023/06/02 20:08:35 [notice] 23#23: exiting
+2023/06/02 20:08:35 [notice] 24#24: exit
+2023/06/02 20:08:35 [notice] 22#22: exiting
+2023/06/02 20:08:35 [notice] 21#21: exit
+2023/06/02 20:08:35 [notice] 22#22: exit
+2023/06/02 20:08:35 [notice] 23#23: exit
+2023/06/02 20:08:35 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/06/02 20:08:35 [notice] 1#1: worker process 21 exited with code 0
+2023/06/02 20:08:35 [notice] 1#1: worker process 23 exited with code 0
+2023/06/02 20:08:35 [notice] 1#1: signal 29 (SIGIO) received
+2023/06/02 20:08:35 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/06/02 20:08:35 [notice] 1#1: worker process 24 exited with code 0
+2023/06/02 20:08:35 [notice] 1#1: signal 29 (SIGIO) received
+2023/06/02 20:08:35 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/06/02 20:08:35 [notice] 1#1: worker process 22 exited with code 0
+2023/06/02 20:08:35 [notice] 1#1: exit
+2023/06/02 20:10:26 [notice] 1#1: using the "epoll" event method
+2023/06/02 20:10:26 [notice] 1#1: nginx/1.22.1
+2023/06/02 20:10:26 [notice] 1#1: built by gcc 11.2.1 20220219 (Alpine 11.2.1_git20220219) 
+2023/06/02 20:10:26 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/06/02 20:10:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/06/02 20:10:26 [notice] 1#1: start worker processes
+2023/06/02 20:10:26 [notice] 1#1: start worker process 21
+2023/06/02 20:10:26 [notice] 1#1: start worker process 22
+2023/06/02 20:10:26 [notice] 1#1: start worker process 23
+2023/06/02 20:10:26 [notice] 1#1: start worker process 24
+2023/06/02 20:11:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/06/02 20:11:40 [notice] 21#21: gracefully shutting down
+2023/06/02 20:11:40 [notice] 22#22: gracefully shutting down
+2023/06/02 20:11:40 [notice] 23#23: gracefully shutting down
+2023/06/02 20:11:40 [notice] 24#24: gracefully shutting down
+2023/06/02 20:11:40 [notice] 22#22: exiting
+2023/06/02 20:11:40 [notice] 23#23: exiting
+2023/06/02 20:11:40 [notice] 24#24: exiting
+2023/06/02 20:11:40 [notice] 22#22: exit
+2023/06/02 20:11:40 [notice] 23#23: exit
+2023/06/02 20:11:40 [notice] 24#24: exit
+2023/06/02 20:11:40 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/06/02 20:11:40 [notice] 1#1: worker process 22 exited with code 0
+2023/06/02 20:11:40 [notice] 1#1: worker process 24 exited with code 0
+2023/06/02 20:11:40 [notice] 1#1: signal 29 (SIGIO) received
+2023/06/02 20:11:40 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/06/02 20:11:40 [notice] 1#1: worker process 23 exited with code 0
+2023/06/02 20:11:40 [notice] 1#1: signal 29 (SIGIO) received
+2023/06/02 20:11:46 [notice] 21#21: exiting
+2023/06/02 20:11:46 [notice] 21#21: exit
+2023/06/02 20:11:46 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2023/06/02 20:11:46 [notice] 1#1: worker process 21 exited with code 0
+2023/06/02 20:11:46 [notice] 1#1: exit
